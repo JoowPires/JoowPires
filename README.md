@@ -1,5 +1,5 @@
-<h1 align="center"> Olá, sejam bem vindos ao meu perfil do Github 👋 </h1>
-
+<h1 align="center"> Olá, me chamo Jonathan</h1>
+<h1 align="center"> sejam bem vindos ao meu perfil do Github 👋</h1>
 
 <a target="_blank" href="https://www.linkedin.com/in/jonathan-pires-680796100/">
   <img align="left" alt="LinkdeIN" width="40px" src="https://img.icons8.com/color/48/undefined/linkedin-circled--v1.png" />
