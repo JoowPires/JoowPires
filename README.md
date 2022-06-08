@@ -2,6 +2,7 @@
 
 ## Jow
 
+##
 <a target="_blank" href="https://www.linkedin.com/in/jonathan-pires-680796100/">
   <img align="left" alt="LinkdeIN" width="40px" src="https://img.icons8.com/color/48/undefined/linkedin-circled--v1.png" />
 </a>
@@ -18,10 +19,7 @@
   <img align="left" alt="Facebook" width="40px" src="https://img.icons8.com/color/48/undefined/facebook.png" />
 </a>
 
-
-
-
-
+##
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
