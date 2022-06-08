@@ -1,6 +1,7 @@
 <h1 align="center"> Olá, me chamo Jonathan</h1>
 <h1 align="center"> Sejam bem vindos ao meu perfil do Github 👋</h1>
 
+<br>
 
 ### Contatos:
 
@@ -20,10 +21,11 @@
   <img align="left" alt="Facebook" width="40px" src="https://img.icons8.com/color/48/undefined/facebook.png" />
 </a>
 
-<br>
+
+<br><br><br>
 
 ### Ferramentas e Tecnologias:
-
+<span>
 <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 <img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -31,7 +33,7 @@
 <img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-
+<span/>
 
           
           
