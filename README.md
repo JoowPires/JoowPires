@@ -1,6 +1,6 @@
-# Bem vindo, me chamo Jonathan
+## Olá, sejam bem vindos ao meu perfil do Github 👋
 
-## Jow
+
 
 <a target="_blank" href="https://www.linkedin.com/in/jonathan-pires-680796100/">
   <img align="left" alt="LinkdeIN" width="40px" src="https://img.icons8.com/color/48/undefined/linkedin-circled--v1.png" />
