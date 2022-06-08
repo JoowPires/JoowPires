@@ -9,13 +9,13 @@
   <img align="left" alt="Whatsapp" width="40px" src="https://img.icons8.com/color/48/undefined/whatsapp--v1.png" />
 </a>
 <a target="_blank" href="https://www.instagram.com/joow_pires/">
-  <img align="left" alt="Instagram" width="25px" src="https://img.icons8.com/cute-clipart/64/undefined/instagram-new.png" />
+  <img align="left" alt="Instagram" width="40px" src="https://img.icons8.com/cute-clipart/64/undefined/instagram-new.png" />
 </a>
 <a target="_blank" href="mailto:jonathanpiresneves@hotmail.com">
   <img align="left" alt="Gmail" width="40px" src="https://img.icons8.com/fluency/48/undefined/email-open.png" />
 </a>
 <a target="_blank" href="https://www.facebook.com/jonathan.pires.946/">
-  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/color/48/undefined/facebook.png" />
+  <img align="left" alt="Facebook" width="40px" src="https://img.icons8.com/color/48/undefined/facebook.png" />
 </a>
 
 
