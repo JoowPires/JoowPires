@@ -1,6 +1,23 @@
 ### Hi there 👋
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=joowpires&show_icons=true)
+
+<a target="_blank" href="https://www.linkedin.com/in/jonathan-pires-680796100/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5511976444988">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/joow_pires/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="mailto:jonathanpiresneves@hotmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://www.facebook.com/jonathan.pires.946/">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+![Jonathan Pires GitHub Stats](https://github-readme-stats.vercel.app/api?username=joowpires&show_icons=true)
 
 
 <!--
